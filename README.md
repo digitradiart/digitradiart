@@ -23,7 +23,7 @@ Apa kabaaar ...
 Setelah sekian lama, saya perbarui juga daftar ini 🙈. Dan masih secara berkala kusebar.
 Pemula linux dapat memulai dengan mengikuti group (paguyuban): https://t.me/GNULinuxIndonesia.
 Bagi pengguna GNU/Linux, kalau sudah lebih dari setahun pakai distro, bisa mulai kepo simak distro lain:</p>
-
+<!--
 <ul>
       <li>https://t.me/VoidLinuxID</li>
       <li>https://t.me/FedoraID</li>
@@ -47,12 +47,36 @@ Bagi pengguna GNU/Linux, kalau sudah lebih dari setahun pakai distro, bisa mulai
       <li>https://t.me/lfsid</li>
       <li>https://t.me/dracoslinuxid</li>
       <li>https://t.me/ibislinux</li>
-</ul>
+</ul>-->
+https://t.me/VoidLinuxID,
+https://t.me/FedoraID,
+https://t.me/centosID,
+https://t.me/openSUSE_ID,
+https://t.me/manjaroID,
+https://t.me/ArchLinuxID,
+https://t.me/CodernateLinuxID,
+https://t.me/BlankOnLinux,
+https://t.me/DebianID,
+https://t.me/ubuntu_id,
+https://t.me/mint_id,
+https://t.me/elementaryID,
+https://t.me/proxmoxid,
+https://t.me/MXLinuxIndonesia,
+https://t.me/tealinux,
+https://t.me/endlessos_id,
+https://t.me/deepin_indonesia,
+https://t.me/GPG_Indonesia,
+https://t.me/SlackwareID [sekarang private group],
+https://t.me/lfsid,
+https://t.me/dracoslinuxid,
+https://t.me/ibislinux
+
 
 catatan 🥖: mohon maaf kalau ada yang belum dimasukkan.
 catatan 🥓: namun ada yang sengaja tidak dimasukkan.
 
 <h3>Bagi yang suka hacking, lebih baik masuk ke group khusus misalnya:</h3>
+<!--
 <ul>
  <li>https://t.me/Metasploitid</li>
  <li>https://t.me/reversingid</li>
@@ -61,22 +85,24 @@ catatan 🥓: namun ada yang sengaja tidak dimasukkan.
  <li>https://t.me/ForensicaID</li>
  <li>https://t.me/ScrapeID</li>
  <li>https://t.me/bashidorg</li>
-</ul>
+</ul>-->
+https://t.me/Metasploitid, 
+https://t.me/reversingid, 
+https://t.me/kriptografiid, 
+https://t.me/Kriptografi, 
+https://t.me/ForensicaID, 
+https://t.me/ScrapeID, 
+https://t.me/bashidorg, 
+
 atau 
 Supaya tidak terjebak group yang dipenuhi pertanyaan mendasar dari n00b.
 Invalid Link: SolusID.
 
 <h3>Kustomisasi:</h3>
-<ul>
- <li>🍓 https://t.me/dotfiles_id</li>
- <li>👉🏽 https://t.me/dotfiles_id_channel</li>
-</ul>
+https://t.me/dotfiles_id, https://t.me/dotfiles_id_channel</li>
 
 <h3>Text Editor:</h3>
-<ul>
- <li>🍓 https://t.me/VimID</li>
- <li>🍓 https://t.me/emacsID</li>
-</ul>
+https://t.me/VimID, https://t.me/emacsID
 
 <h3>Aplikasi:</h3>
 <ul>
@@ -372,51 +398,31 @@ Mobile:
 -- -- --
 
 Web Assembly:
-
-📍 https://t.me/WebAssemblyID
-📍 https://t.me/WASM_INDONESIA
+https://t.me/WebAssemblyID, https://t.me/WASM_INDONESIA
 
 -- -- --
 
 Method
+https://t.me/agilecirclesid, https://t.me/ScrumJakarta, https://t.me/scrumid
 
-🥁 https://t.me/agilecirclesid
-🥁 https://t.me/ScrumJakarta
-🥁 https://t.me/scrumid
-
--- -- --
-
+<!--
 Humor
-
 🥁 https://t.me/komunitasbackenddev
+-->
 
 -- -- --
  
 IoT:
- 
-🦑 https://t.me/IoTIndonesia
-🥁 https://t.me/blockchainiotIDN
-🥁 https://t.me/lombok_iot
+https://t.me/IoTIndonesia, https://t.me/blockchainiotIDN, https://t.me/lombok_iot
 
 Board:
-
-🥁 https://t.me/arduinoclub_id (paguyuban group arduino yang baru dengan admin)
-🦑 https://t.me/arduinoelektro (tampol, gif)
-🥁 https://t.me/raspberrypi_id
+https://t.me/arduinoclub_id (paguyuban group arduino yang baru dengan admin), https://t.me/arduinoelektro (tampol, gif), https://t.me/raspberrypi_id
 
 Miscellanous: 
-
-🥁 https://t.me/edukasielektronika
-🥁 https://t.me/maker4nation
+https://t.me/edukasielektronika, https://t.me/maker4nation
 
 Robotika:
-
-🍓 https://t.me/kelasrobotgrup
-🍓 https://t.me/labrobotika
-📍 https://t.me/indonesiadrone
-🕷 https://t.me/dronecoderid
-🍓 https://t.me/dronehacking
-🥁 https://t.me/tigaDIndonesia
+https://t.me/kelasrobotgrup, https://t.me/labrobotika, https://t.me/indonesiadrone, https://t.me/dronecoderid, https://t.me/dronehacking, https://t.me/tigaDIndonesia
 
 Network:
 
