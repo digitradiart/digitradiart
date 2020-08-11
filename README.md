@@ -116,36 +116,36 @@ https://t.me/VimID, https://t.me/emacsID
 </ul>
 
 <h3>Group (paguyuban) umum:</h3>
-https://t.me/komunitasremasterlinuxindonesia
-https://t.me/RemasterGNULinuxIndonesia
-https://t.me/GNULinuxIndonesia
-https://t.me/unixlikeindonesia
-https://t.me/soft_eng_id
-https://t.me/tamankodekode
-https://t.me/petani_kode
-https://t.me/sinaudev
-https://t.me/teknikinformatika
-https://t.me/doscomedia
-https://t.me/indie_devs
-https://t.me/Cafestartup
-https://t.me/pegelounge
-https://t.me/ITNusantara
-https://t.me/dusunweb
-https://t.me/pegelounge
-https://t.me/programmerlokal
-https://t.me/tamankodekode
+https://t.me/komunitasremasterlinuxindonesia, 
+https://t.me/RemasterGNULinuxIndonesia, 
+https://t.me/GNULinuxIndonesia, 
+https://t.me/unixlikeindonesia, 
+https://t.me/soft_eng_id, 
+https://t.me/tamankodekode, 
+https://t.me/petani_kode, 
+https://t.me/sinaudev, 
+https://t.me/teknikinformatika, 
+https://t.me/doscomedia, 
+https://t.me/indie_devs, 
+https://t.me/Cafestartup, 
+https://t.me/pegelounge, 
+https://t.me/ITNusantara, 
+https://t.me/dusunweb, 
+https://t.me/pegelounge, 
+https://t.me/programmerlokal, 
+https://t.me/tamankodekode, 
 
 Non Linux:
 
-🥐 https://t.me/freebsdid
-🥐 https://t.me/setanmerahID
-🥐 https://t.me/openbsdindonesia
-🕷 https://t.me/pegelbsd
+https://t.me/freebsdid, 
+https://t.me/setanmerahID, 
+https://t.me/openbsdindonesia, 
+https://t.me/pegelbsd, 
 
 Group Baru:
 
-🕷 https://t.me/nixosid
-🕷 https://t.me/linuxclearID
+🕷 https://t.me/nixosid, 
+🕷 https://t.me/linuxclearID, 
 🐾 https://t.me/centos_id
 🐾 https://t.me/XentaOS
 🐾 https://t.me/oss_id
