@@ -25,28 +25,28 @@ Pemula linux dapat memulai dengan mengikuti group (paguyuban): https://t.me/GNUL
 Bagi pengguna GNU/Linux, kalau sudah lebih dari setahun pakai distro, bisa mulai kepo simak distro lain:</p>
 
 <ul>
- <li>📌 https://t.me/VoidLinuxID</li>
- <li>🍔 https://t.me/FedoraID</li>
- <li>🍔 https://t.me/centosID</li>
- <li>🍔 https://t.me/openSUSE_ID</li>
- <li>🌮 https://t.me/manjaroID</li>
- <li>🌮 https://t.me/ArchLinuxID</li>
- <li>🌮 https://t.me/CodernateLinuxID</li>
- <li>🌭 https://t.me/BlankOnLinux</li>
- <li>🌭 https://t.me/DebianID</li>
- <li>🌭 https://t.me/ubuntu_id</li>
- <li>🌭 https://t.me/mint_id</li>
- <li>🌭 https://t.me/elementaryID</li>
- <li>🌭 https://t.me/proxmoxid</li>
- <li>🌭 https://t.me/MXLinuxIndonesia</li>
- <li>🥙 https://t.me/tealinux</li>
- <li>🥙 https://t.me/endlessos_id</li>
- <li>🥙 https://t.me/deepin_indonesia</li>
- <li>🍤 https://t.me/GPG_Indonesia</li>
- <li>🍤 https://t.me/SlackwareID [sekarang private group]</li>
- <li>🍤 https://t.me/lfsid</li>
- <li>🍤 https://t.me/dracoslinuxid</li>
- <li>🍤 https://t.me/ibislinux</li>
+      <li>https://t.me/VoidLinuxID</li>
+      <li>https://t.me/FedoraID</li>
+      <li>https://t.me/centosID</li>
+      <li>https://t.me/openSUSE_ID</li>
+      <li>https://t.me/manjaroID</li>
+      <li>https://t.me/ArchLinuxID</li>
+      <li>https://t.me/CodernateLinuxID</li>
+      <li>https://t.me/BlankOnLinux</li>
+      <li>https://t.me/DebianID</li>
+      <li>https://t.me/ubuntu_id</li>
+      <li>https://t.me/mint_id</li>
+      <li>https://t.me/elementaryID</li>
+      <li>https://t.me/proxmoxid</li>
+      <li>https://t.me/MXLinuxIndonesia</li>
+      <li>https://t.me/tealinux</li>
+      <li>https://t.me/endlessos_id</li>
+      <li>https://t.me/deepin_indonesia</li>
+      <li>https://t.me/GPG_Indonesia</li>
+      <li>https://t.me/SlackwareID [sekarang private group]</li>
+      <li>https://t.me/lfsid</li>
+      <li>https://t.me/dracoslinuxid</li>
+      <li>https://t.me/ibislinux</li>
 </ul>
 
 catatan 🥖: mohon maaf kalau ada yang belum dimasukkan.
@@ -80,40 +80,34 @@ Invalid Link: SolusID.
 
 <h3>Aplikasi:</h3>
 <ul>
- <li>🥁 https://t.me/gimpscape</li>
- <li>🥁 https://t.me/inkscapedia</li>
- <li>🥁 https://t.me/Blender3DIndonesia</li>
- <li>🥁 https://t.me/inkscapefontforge</li>
- <li>🥁 https://t.me/LibreOfficeID</li>
- <li>🥁 https://t.me/BelajarLibreOfficeIndonesia.</li>
- <li>🥁 https://t.me/bashidorg</li>
+  <li>https://t.me/gimpscape</li>
+  <li>https://t.me/inkscapedia</li>
+  <li>https://t.me/Blender3DIndonesia</li>
+  <li>https://t.me/inkscapefontforge</li>
+  <li>https://t.me/LibreOfficeID</li>
+  <li>https://t.me/BelajarLibreOfficeIndonesia.</li>
+  <li>https://t.me/bashidorg</li>
 </ul>
 
-<h3>Aplikasi Backend:</h3>
-<ul>
- <li>🥁 https://t.me/zimbraID</li>
-</ul>
-
-
-Group (paguyuban) umum:
-🍓 https://t.me/komunitasremasterlinuxindonesia
-🍓 https://t.me/RemasterGNULinuxIndonesia
-🍓 https://t.me/GNULinuxIndonesia
-🍓 https://t.me/unixlikeindonesia
-🐾 https://t.me/soft_eng_id
-👣 https://t.me/tamankodekode
-🥁 https://t.me/petani_kode
-🥁 https://t.me/sinaudev
-🥁 https://t.me/teknikinformatika
-🥁 https://t.me/doscomedia
-🥁 https://t.me/indie_devs
-🥁 https://t.me/Cafestartup
-🥁 https://t.me/pegelounge
-🥁 https://t.me/ITNusantara
-🥁 https://t.me/dusunweb
-🐾 https://t.me/pegelounge
-🐾 https://t.me/programmerlokal
-🥁 https://t.me/tamankodekode
+<h3>Group (paguyuban) umum:</h3>
+https://t.me/komunitasremasterlinuxindonesia
+https://t.me/RemasterGNULinuxIndonesia
+https://t.me/GNULinuxIndonesia
+https://t.me/unixlikeindonesia
+https://t.me/soft_eng_id
+https://t.me/tamankodekode
+https://t.me/petani_kode
+https://t.me/sinaudev
+https://t.me/teknikinformatika
+https://t.me/doscomedia
+https://t.me/indie_devs
+https://t.me/Cafestartup
+https://t.me/pegelounge
+https://t.me/ITNusantara
+https://t.me/dusunweb
+https://t.me/pegelounge
+https://t.me/programmerlokal
+https://t.me/tamankodekode
 
 Non Linux:
 
@@ -280,24 +274,28 @@ Serverless:
 
 -- -- --
 
-Backend:
-
-🕷 https://t.me/BackEndID
+<h3>Backend</h3>
+<ul>
+ <li>https://t.me/zimbraID</li>
+ <li>https://t.me/BackEndID</li>
+</ul>
 
 Backend Framework:
-
-📍 https://t.me/flaskid
-📍 https://t.me/DjangoID
-📍 https://t.me/RailsID
-📍 https://t.me/dart_web
+<ul>
+ <li>📍 https://t.me/flaskid</li>
+ <li>📍 https://t.me/DjangoID</li>
+ <li>📍 https://t.me/RailsID</li>
+ <li>📍 https://t.me/dart_web</li>
+</ul>
 
 PHP:
-
-📍 https://t.me/phpidcommunity
-📍 https://t.me/PHPIDforStudent
-📍 https://t.me/codeigniterindonesia
-📍 https://t.me/laravelindonesia
-📍 https://t.me/symfonyid
+<ul>
+ <li>https://t.me/phpidcommunity/li>
+ <li>https://t.me/PHPIDforStudent</li>
+ <li>https://t.me/codeigniterindonesia</li>
+ <li>https://t.me/laravelindonesia</li>
+ <li>https://t.me/symfonyid</li>
+</ul>
 
 Server:
 
