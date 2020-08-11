@@ -15,93 +15,105 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1>Rekomendasi Grup/Channel Telegram untuk Belajar</h1>
 <i>digitradiart, [11.08.20 17:57]
-[Forwarded from Programmer Pak Epsi]</i>
+[Forwarded from Pak Epsi]</i>
 <p>Dear kawan2,
 Apa kabaaar ...
 Setelah sekian lama, saya perbarui juga daftar ini 🙈. Dan masih secara berkala kusebar.
 Pemula linux dapat memulai dengan mengikuti group (paguyuban): https://t.me/GNULinuxIndonesia.
 Bagi pengguna GNU/Linux, kalau sudah lebih dari setahun pakai distro, bisa mulai kepo simak distro lain:</p>
+
 <ul>
-<li>📌 https://t.me/VoidLinuxID</li>
-<li>🍔 https://t.me/FedoraID</li>
-<li>🍔 https://t.me/centosID</li>
-<li>🍔 https://t.me/openSUSE_ID</li>
-<li>🌮 https://t.me/manjaroID</li>
-<li>🌮 https://t.me/ArchLinuxID</li>
-<li>🌮 https://t.me/CodernateLinuxID</li>
-<li></li>
+ <li>📌 https://t.me/VoidLinuxID</li>
+ <li>🍔 https://t.me/FedoraID</li>
+ <li>🍔 https://t.me/centosID</li>
+ <li>🍔 https://t.me/openSUSE_ID</li>
+ <li>🌮 https://t.me/manjaroID</li>
+ <li>🌮 https://t.me/ArchLinuxID</li>
+ <li>🌮 https://t.me/CodernateLinuxID</li>
+ <li>🌭 https://t.me/BlankOnLinux</li>
+ <li>🌭 https://t.me/DebianID</li>
+ <li>🌭 https://t.me/ubuntu_id</li>
+ <li>🌭 https://t.me/mint_id</li>
+ <li>🌭 https://t.me/elementaryID</li>
+ <li>🌭 https://t.me/proxmoxid</li>
+ <li>🌭 https://t.me/MXLinuxIndonesia</li>
+ <li>🥙 https://t.me/tealinux</li>
+ <li>🥙 https://t.me/endlessos_id</li>
+ <li>🥙 https://t.me/deepin_indonesia</li>
+ <li>🍤 https://t.me/GPG_Indonesia</li>
+ <li>🍤 https://t.me/SlackwareID [sekarang private group]</li>
+ <li>🍤 https://t.me/lfsid</li>
+ <li>🍤 https://t.me/dracoslinuxid</li>
+ <li>🍤 https://t.me/ibislinux</li>
 </ul>
-
-
-
-
-
-
-
-
-🌭 https://t.me/BlankOnLinux
-🌭 https://t.me/DebianID
-🌭 https://t.me/ubuntu_id
-🌭 https://t.me/mint_id
-🌭 https://t.me/elementaryID
-🌭 https://t.me/proxmoxid
-🌭 https://t.me/MXLinuxIndonesia
-
-🥙 https://t.me/tealinux
-🥙 https://t.me/endlessos_id
-🥙 https://t.me/deepin_indonesia
-
-🍤 https://t.me/GPG_Indonesia
-🍤 https://t.me/SlackwareID [sekarang private group]
-
-🍤 https://t.me/lfsid
-🍤 https://t.me/dracoslinuxid
-🍤 https://t.me/ibislinux
 
 catatan 🥖: mohon maaf kalau ada yang belum dimasukkan.
 catatan 🥓: namun ada yang sengaja tidak dimasukkan.
 
-Bagi yang suka hacking, lebih baik masuk ke group khusus misalnya:
-https://t.me/Metasploitid, 
-https://t.me/reversingid, 
-https://t.me/kriptografiid, 
-https://t.me/Kriptografi, 
-https://t.me/ForensicaID, 
-https://t.me/ScrapeID, atau 
-https://t.me/bashidorg. 
+<h3>Bagi yang suka hacking, lebih baik masuk ke group khusus misalnya:</h3>
+<ul>
+ <li>https://t.me/Metasploitid</li>
+ <li>https://t.me/reversingid</li>
+ <li>https://t.me/kriptografiid</li>
+ <li>https://t.me/Kriptografi</li>
+ <li>https://t.me/ForensicaID</li>
+ <li>https://t.me/ScrapeID</li>
+ <li>https://t.me/bashidorg</li>
+</ul>
+atau 
 Supaya tidak terjebak group yang dipenuhi pertanyaan mendasar dari n00b.
-
 Invalid Link: SolusID.
 
-Kustomisasi:
+<h3>Kustomisasi:</h3>
+<ul>
+ <li>🍓 https://t.me/dotfiles_id</li>
+ <li>👉🏽 https://t.me/dotfiles_id_channel</li>
+</ul>
 
-🍓 https://t.me/dotfiles_id 👉🏽 https://t.me/dotfiles_id_channel
+<h3>Text Editor:</h3>
+<ul>
+ <li>🍓 https://t.me/VimID</li>
+ <li>🍓 https://t.me/emacsID</li>
+</ul>
 
-Text Editor:
+<h3>Aplikasi:</h3>
+<ul>
+ <li>🥁 https://t.me/gimpscape</li>
+ <li>🥁 https://t.me/inkscapedia</li>
+ <li>🥁 https://t.me/Blender3DIndonesia</li>
+ <li>🥁 https://t.me/inkscapefontforge</li>
+ <li>🥁 https://t.me/LibreOfficeID</li>
+ <li>🥁 https://t.me/BelajarLibreOfficeIndonesia.</li>
+ <li>🥁 https://t.me/bashidorg</li>
+</ul>
 
-🍓 https://t.me/VimID
-🍓 https://t.me/emacsID
+<h3>Aplikasi Backend:</h3>
+<ul>
+ <li>🥁 https://t.me/zimbraID</li>
+</ul>
 
-Aplikasi:
-
-🥁 https://t.me/gimpscape
-🥁 https://t.me/inkscapedia
-🥁 https://t.me/Blender3DIndonesia
-🥁 https://t.me/inkscapefontforge
-🥁 https://t.me/LibreOfficeID
-🥁 https://t.me/BelajarLibreOfficeIndonesia.
-
-Aplikasi Backend:
-
-🥁 https://t.me/zimbraID
 
 Group (paguyuban) umum:
-
 🍓 https://t.me/komunitasremasterlinuxindonesia
 🍓 https://t.me/RemasterGNULinuxIndonesia
 🍓 https://t.me/GNULinuxIndonesia
 🍓 https://t.me/unixlikeindonesia
+🐾 https://t.me/soft_eng_id
+👣 https://t.me/tamankodekode
+🥁 https://t.me/petani_kode
+🥁 https://t.me/sinaudev
+🥁 https://t.me/teknikinformatika
+🥁 https://t.me/doscomedia
+🥁 https://t.me/indie_devs
+🥁 https://t.me/Cafestartup
+🥁 https://t.me/pegelounge
+🥁 https://t.me/ITNusantara
+🥁 https://t.me/dusunweb
+🐾 https://t.me/pegelounge
+🐾 https://t.me/programmerlokal
+🥁 https://t.me/tamankodekode
 
 Non Linux:
 
@@ -184,13 +196,10 @@ Database
 📍 https://t.me/sqliteid
 📍 https://t.me/pgsqlid
 📍 https://t.me/postgresql_id
-
 📍 https://t.me/firebaseid
 📍 https://t.me/MongoDB_ID
-
 🕷 https://t.me/indonesia_dbdesigner_id
-
-💋 https://t.me/foxpro
+📍 https://t.me/foxpro
 
 Game/VR
 
@@ -216,21 +225,7 @@ DS/BD/ML/AI:
 Quantum
 🕷 https://t.me/idqce
 
-Umum/Komunitas
- 
-🐾 https://t.me/soft_eng_id
-👣 https://t.me/tamankodekode
-🥁 https://t.me/petani_kode
-🥁 https://t.me/sinaudev
-🥁 https://t.me/teknikinformatika
-🥁 https://t.me/doscomedia
-🥁 https://t.me/indie_devs
-🥁 https://t.me/Cafestartup
-🥁 https://t.me/pegelounge
-🥁 https://t.me/ITNusantara
-🥁 https://t.me/dusunweb
-🐾 https://t.me/pegelounge
-🐾 https://t.me/programmerlokal
+
 
 Kemampuan Dasar:
 
@@ -238,7 +233,7 @@ Kemampuan Dasar:
 
 Komunitas:
 
-🥁 https://t.me/tamankodekode
+
 
 Frontend:
 
