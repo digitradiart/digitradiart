@@ -15,22 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-digitradiart, [11.08.20 17:57]
-[Forwarded from Programmer Pak Epsi]
-Dear kawan2,
+<i>digitradiart, [11.08.20 17:57]
+[Forwarded from Programmer Pak Epsi]</i>
+<p>Dear kawan2,
 Apa kabaaar ...
 Setelah sekian lama, saya perbarui juga daftar ini 🙈. Dan masih secara berkala kusebar.
 Pemula linux dapat memulai dengan mengikuti group (paguyuban): https://t.me/GNULinuxIndonesia.
-Bagi pengguna GNU/Linux, kalau sudah lebih dari setahun pakai distro, bisa mulai kepo simak distro lain:
+Bagi pengguna GNU/Linux, kalau sudah lebih dari setahun pakai distro, bisa mulai kepo simak distro lain:</p>
+<ul>
+<li>📌 https://t.me/VoidLinuxID</li>
+<li>🍔 https://t.me/FedoraID</li>
+<li>🍔 https://t.me/centosID</li>
+<li>🍔 https://t.me/openSUSE_ID</li>
+<li>🌮 https://t.me/manjaroID</li>
+<li>🌮 https://t.me/ArchLinuxID</li>
+<li>🌮 https://t.me/CodernateLinuxID</li>
+<li></li>
+</ul>
 
-📌 https://t.me/VoidLinuxID
-🍔 https://t.me/FedoraID
-🍔 https://t.me/centosID
-🍔 https://t.me/openSUSE_ID
 
-🌮 https://t.me/manjaroID
-🌮 https://t.me/ArchLinuxID
-🌮 https://t.me/CodernateLinuxID
+
+
+
+
+
 
 🌭 https://t.me/BlankOnLinux
 🌭 https://t.me/DebianID
