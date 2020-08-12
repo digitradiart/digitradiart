@@ -175,16 +175,15 @@ https://t.me/idjlw,
 https://t.me/zigindonesia, 
 </p>
 
-Database
-
-📍 https://t.me/mysqlid
-📍 https://t.me/sqliteid
-📍 https://t.me/pgsqlid
-📍 https://t.me/postgresql_id
-📍 https://t.me/firebaseid
-📍 https://t.me/MongoDB_ID
-🕷 https://t.me/indonesia_dbdesigner_id
-📍 https://t.me/foxpro
+<h3>Database</h3>
+https://t.me/mysqlid, 
+https://t.me/sqliteid, 
+https://t.me/pgsqlid, 
+https://t.me/postgresql_id, 
+https://t.me/firebaseid, 
+https://t.me/MongoDB_ID, 
+https://t.me/indonesia_dbdesigner_id, 
+https://t.me/foxpro
 
 <h3>Game/VR</h3>
 <p>
@@ -256,14 +255,12 @@ https://t.me/codeigniterindonesia,
 https://t.me/laravelindonesia, 
 https://t.me/symfonyid
 
-Server:
+<h3>Server:</h3>
+https://t.me/id_nginx
 
-🐾 https://t.me/id_nginx
-
-Service:
-
-📍 https://t.me/microserviceid
-👣 https://t.me/micronaut_id
+<h3>Service:</h3>
+https://t.me/microserviceid,
+https://t.me/micronaut_id
 
 -- -- --
 
@@ -282,58 +279,53 @@ invite (ex https://t.me/openstackid)
 
 -- -- --
 
-Javascript:
+<h3>Javascript:</h3>
+https://t.me/nodejsid, 
+https://t.me/nodejsindo, 
+https://t.me/deno_id, 
+https://t.me/js_id, 
+https://t.me/javascript_rocks, 
+https://t.me/electronatom
 
-🕷 https://t.me/nodejsid
-🕷 https://t.me/nodejsindo
-🕷 https://t.me/deno_id
-🕷 https://t.me/js_id
-🕷 https://t.me/javascript_rocks
-🕷 https://t.me/electronatom
-
-Javascript Framework:
-
-🕷 https://t.me/svelte_id
-🕷 https://t.me/belajarjquery
-
-🕷 https://t.me/emberjsID
-🕷 https://t.me/vuejsid
-🕷 https://t.me/vuejsindonesia
-🕷 https://t.me/adonisid
-🕷 https://t.me/nestjs_indonesia
-🕷 https://t.me/LoopbackID
-🕷 https://t.me/belajarmeteorjs
-🕷 https://t.me/redwoodjsid
-🕷 https://t.me/reactnative_id
-🕷 https://t.me/react_id
-🕷 https://t.me/reactnoob
+<h3>Javascript Frameworks/Libraries:</h3>
+https://t.me/svelte_id, 
+https://t.me/belajarjquery, 
+https://t.me/emberjsID, 
+https://t.me/vuejsid, 
+https://t.me/vuejsindonesia, 
+https://t.me/adonisid, 
+https://t.me/nestjs_indonesia, 
+https://t.me/LoopbackID, 
+https://t.me/belajarmeteorjs, 
+https://t.me/redwoodjsid, 
+https://t.me/reactnative_id, 
+https://t.me/react_id, 
+https://t.me/reactnoob, 
 
 
-Javascript Like:
-
-🥁 https://t.me/TypescriptIndonesia
-🥁 https://t.me/nativescriptid
-🥁 https://t.me/nativescript_id
-🥁 https://t.me/reasonML_id
+<h3>Javascript Like:</h3>
+https://t.me/TypescriptIndonesia, 
+https://t.me/nativescriptid, 
+https://t.me/nativescript_id, 
+https://t.me/reasonML_id
 -- -- --
 
-Mobile:
-
-📍 https://t.me/indonesiaionic
-📍 https://t.me/nativescriptid
-📍 https://t.me/flutterindonesia
-📍 https://t.me/flutter_id
-📍 https://t.me/cordovaindo
-📍 https://t.me/freekelasphonegapcordova
+<h3>Mobile:</h3>
+https://t.me/indonesiaionic, 
+https://t.me/nativescriptid, 
+https://t.me/flutterindonesia, 
+https://t.me/flutter_id, 
+https://t.me/cordovaindo, 
+https://t.me/freekelasphonegapcordova
 
 -- -- --
 
-Web Assembly:
+<h3>Web Assembly:</h3>
 https://t.me/WebAssemblyID, https://t.me/WASM_INDONESIA
 
 -- -- --
 
-Method
+<h3>Method</h3>
 https://t.me/agilecirclesid, 
 https://t.me/ScrumJakarta, 
 https://t.me/scrumid
@@ -345,39 +337,41 @@ Humor
 
 -- -- --
  
-IoT:
+<h3>IoT:</h3>
 https://t.me/IoTIndonesia, https://t.me/blockchainiotIDN, https://t.me/lombok_iot
 
-Board:
+<h3>Board:</h3>
 https://t.me/arduinoclub_id (paguyuban group arduino yang baru dengan admin), https://t.me/arduinoelektro (tampol, gif), https://t.me/raspberrypi_id
 
-Miscellanous: 
-https://t.me/edukasielektronika, https://t.me/maker4nation
+<h3>Miscellanous: </h3>
+https://t.me/edukasielektronika, 
+https://t.me/maker4nation
 
-Robotika:
-https://t.me/kelasrobotgrup, https://t.me/labrobotika, https://t.me/indonesiadrone, https://t.me/dronecoderid, https://t.me/dronehacking, https://t.me/tigaDIndonesia
+<h3>Robotika:</h3>
+https://t.me/kelasrobotgrup, 
+https://t.me/labrobotika, 
+https://t.me/indonesiadrone, 
+https://t.me/dronecoderid, 
+https://t.me/dronehacking, 
+https://t.me/tigaDIndonesia
 
-Network:
+<h3>Network:</h3>
+https://t.me/opennetworkid, 
+https://t.me/belajarnetworking, 
+https://t.me/SIRENGNetwork, 
+https://t.me/teknisijaringanind, 
+https://t.me/rtrw_id, 
+https://t.me/pegelwrt
 
-🥁 https://t.me/opennetworkid
-🥁 https://t.me/belajarnetworking
-🥁 https://t.me/SIRENGNetwork
-🕷 https://t.me/teknisijaringanind
-🕷 https://t.me/rtrw_id
-🍓 https://t.me/pegelwrt
+<h3>Teknik:</h3>
+https://t.me/plc_indonesia, 
+https://t.me/komunitasautocadindonesia, 
+https://t.me/DrafterIndonesia, 
+https://t.me/anakteknik, 
+https://t.me/digambarin_studio, 
+https://t.me/klistrik, 
+https://t.me/TeknikLingkunganIndonesia, 
 
-Teknik:
-
-🥁 https://t.me/plc_indonesia
-📍 https://t.me/komunitasautocadindonesia
-🕷 https://t.me/DrafterIndonesia
-🕷 https://t.me/anakteknik
-🕷 https://t.me/digambarin_studio
-🕷 https://t.me/klistrik
-🕷 https://t.me/TeknikLingkunganIndonesia
-
+Wassalamu'alaykum warahmatullahi wabarakatuh.
 -- -- --
-Semoga mendapat apa yang engkau butuhkan ya bang.
-Wassalamualaikum Wr. Wb.
-
-<i>[Ps: Si digitradiart cuma tukang salin tempel ya gais, ada dikit2 yang dia edit sih. Ini source nya dari Pak Epsi, beliau admin dari beberapa grup di atas. Barangkali bermanfaat.]</i>
+<i>[Ps: Si digitradiart cuma tukang salin tempel ya gais, ada dikit2 yang dia edit sih. Ini source nya dari Pak Epsi, beliau admin dari beberapa grup di atas. Semoga bermanfaat.]</i>
