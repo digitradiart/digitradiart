@@ -5,28 +5,29 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun(ny) fact: ...
 -->
+
 <h1>Grup/Channel Telegram</h1>
 <h2>Rekomendasi untuk Belajar</h2>
-<i>digitradiart, [11.08.20 17:57]
-[Forwarded from Pak Epsi]</i>
-<p>Assalamu'alaykum warahmatullahi wabarakatuh.
+
+<!--<p>Assalamu'alaykum warahmatullahi wabarakatuh.
 Dear kawan2,
 Apa kabaaar ...
 Setelah sekian lama, saya perbarui juga daftar ini 🙈. Dan masih secara berkala kusebar.
-Pemula linux dapat memulai dengan mengikuti group (paguyuban): https://t.me/GNULinuxIndonesia.
-Bagi pengguna GNU/Linux, kalau sudah lebih dari setahun pakai distro, bisa mulai kepo simak distro lain:</p>
+Pemula linux dapat memulai dengan mengikuti group (paguyuban):.
+Bagi pengguna GNU/Linux, kalau sudah lebih dari setahun pakai distro, bisa mulai kepo simak distro lain:</p>-->
    
 <h3>Tentang Linux</h3>
 <p>
+https://t.me/GNULinuxIndonesia
 https://t.me/VoidLinuxID,
 https://t.me/FedoraID,
 https://t.me/centosID,
@@ -372,6 +373,6 @@ https://t.me/digambarin_studio,
 https://t.me/klistrik, 
 https://t.me/TeknikLingkunganIndonesia, 
 
-Wassalamu'alaykum warahmatullahi wabarakatuh.
+<!--Wassalamu'alaykum warahmatullahi wabarakatuh.-->
 -- -- --
-<i>[Ps: Si digitradiart cuma tukang salin tempel ya gais, ada dikit2 yang dia edit sih. Ini source nya dari Pak Epsi, beliau admin dari beberapa grup di atas. Semoga bermanfaat.]</i>
+<i>[Ps: Si digitradiart cuma tukang salin tempel ya gais, ada dikit2 yang dia edit sih. Semoga bermanfaat.]</i>
