@@ -82,7 +82,8 @@ https://t.me/bashidorg,
 <!--
 atau 
 Supaya tidak terjebak group yang dipenuhi pertanyaan mendasar dari n00b.
-Invalid Link: SolusID.--></p>
+Invalid Link: SolusID.-->
+</p>
 
 <!--
 <h4>Kustomisasi:</h4>
