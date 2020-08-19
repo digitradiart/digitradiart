@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <em>[Ps: Bismillah. Si digitradiart cuma tukang salin tempel ya gais, ada dikit2 yang dia edit sih. Semoga bermanfaat.]</em>
    
 <h4>Tentang Linux</h4>
-<p style="font-size: 10">
+<p>
 https://t.me/GNULinuxIndonesia
 https://t.me/VoidLinuxID,
 https://t.me/FedoraID,
@@ -50,13 +50,11 @@ https://t.me/ibislinux
 
 <p>
 Group Baru:
-https://t.me/nixosid, https://t.me/linuxclearID, https://t.me/centos_id, https://t.me/XentaOS, https://t.me/oss_id <br>
-catatan 🥖: mohon maaf kalau ada yang belum dimasukkan.
-catatan 🥓: namun ada yang sengaja tidak dimasukkan.
+https://t.me/nixosid, https://t.me/linuxclearID, https://t.me/centos_id, https://t.me/XentaOS, https://t.me/oss_id
 </p>
 
 <!--
-<h3>Non Linux:</h3>
+<h4>Non Linux:</h4>
 https://t.me/freebsdid, 
 https://t.me/setanmerahID, 
 https://t.me/openbsdindonesia, 
@@ -67,13 +65,13 @@ Hiburan
 📌 https://t.me/GNUWibu
 📌 https://t.me/LinuxID_OOT-->
 
-<h3>Selain distro coba juga environment-nya:</h3>
+<h4>Selain distro coba juga environment-nya:</h4>
 https://t.me/gnomeid, 
 https://t.me/kdeid
 
 
-<h3>Hacking</h3>
-<p>Bagi yang suka hacking, lebih baik masuk ke group khusus misalnya:
+<h4>Hacking</h4>
+<p>
 https://t.me/Metasploitid, 
 https://t.me/reversingid, 
 https://t.me/kriptografiid, 
@@ -81,20 +79,20 @@ https://t.me/Kriptografi,
 https://t.me/ForensicaID, 
 https://t.me/ScrapeID, 
 https://t.me/bashidorg, 
-
+<!--
 atau 
 Supaya tidak terjebak group yang dipenuhi pertanyaan mendasar dari n00b.
-Invalid Link: SolusID.</p>
+Invalid Link: SolusID.--></p>
 
-<h3>Kustomisasi:</h3>
+<!--
+<h4>Kustomisasi:</h4>
 https://t.me/dotfiles_id, 
 https://t.me/dotfiles_id_channel
-
-<h3>Text Editor:</h3>
+<h4>Text Editor:</h4>
 https://t.me/VimID, 
-https://t.me/emacsID
+https://t.me/emacsID-->
 
-<h3>Aplikasi:</h3>
+<h4>Aplikasi:</h4>
 <p>
 https://t.me/gimpscape, 
 https://t.me/inkscapedia, 
@@ -105,7 +103,7 @@ https://t.me/BelajarLibreOfficeIndonesia,
 https://t.me/bashidorg
 </p>
 
-<h3>Group (paguyuban) umum:</h3>
+<h4>Group (paguyuban) umum:</h4>
 <p>
 https://t.me/komunitasremasterlinuxindonesia, 
 https://t.me/RemasterGNULinuxIndonesia, 
@@ -127,14 +125,14 @@ https://t.me/programmerlokal,
 https://t.me/tamankodekode, 
 </p>
 
-<h3>Khusus</h3>
+<h4>Group (paguyuban) khusus:</h4>
 https://t.me/CodeReviewID
 
-<h3>Assembly</h3>
+<h4>Assembly</h4>
 https://t.me/TeaInside,
 https://t.me/AssemblyID
 
-<h3>Script<h3>
+<h4>Script<h4>
 <p>
 https://t.me/bashidorg, 
 https://t.me/idpyplc, 
@@ -146,7 +144,7 @@ https://t.me/perl_id,
 https://t.me/lua_id
 </p>
         
-<h3>Functional</h3>
+<h4>Functional</h4>
 https://t.me/elixir_id, 
 https://t.me/clojure_id, 
 https://t.me/haskell_id, 
@@ -154,7 +152,7 @@ https://t.me/erlang_id,
 https://t.me/ocamlid, 
 https://t.me/GNURIndonesia
 
-<h3>Compiled/Binary</h3>
+<h4>Compiled/Binary</h4>
 <p>
 https://t.me/CCpp_Indonesia, 
 https://t.me/idcplc, 
@@ -172,7 +170,7 @@ https://t.me/idjlw,
 https://t.me/zigindonesia, 
 </p>
 
-<h3>Database</h3>
+<h4>Database</h4>
 https://t.me/mysqlid, 
 https://t.me/sqliteid, 
 https://t.me/pgsqlid, 
@@ -182,14 +180,14 @@ https://t.me/MongoDB_ID,
 https://t.me/indonesia_dbdesigner_id, 
 https://t.me/foxpro
 
-<h3>Game/VR</h3>
+<h4>Game/VR</h4>
 <p>
  https://t.me/unity_id,
  https://t.me/unity3d_Indonesia,
  https://t.me/vr_id
 </p>
 
-<h3>DS/BD/ML/AI:</h3>
+<h4>DS/BD/ML/AI:</h4>
 <p>
 https://t.me/bigdataID, 
 https://t.me/machinelearningid, 
@@ -205,63 +203,63 @@ https://t.me/statistikazone,
 https://t.me/dsibali
 </p>
 
-<h3>Quantum</h3>
+<h4>Quantum</h4>
 https://t.me/idqce
 
-<h3>Kemampuan Dasar:</h3>
+<h4>Kemampuan Dasar:</h4>
 https://t.me/freekelasgithub
 
 -- -- --
-<h3>Frontend:</h3>
+<h4>Frontend:</h4>
 https://t.me/htmlindonesia, https://t.me/belajarhtmlcss, https://t.me/FrontEndID, https://t.me/jkt_frontend_dev, https://t.me/css_tools_id, https://t.me/Diskusiantarbahasaprograman, https://t.me/webdevid
 
-<h3>CSS Framework:</h3>
+<h4>CSS Framework:</h4>
 https://t.me/bootstrap_id, https://t.me/bulma_id, https://t.me/TailwindID
 
-<h3>Static Site Generator:</h3>
+<h4>Static Site Generator:</h4>
 https://t.me/gohugoid, https://t.me/jekyllID, https://t.me/hexo_id, https://t.me/id_11ty, https://t.me/nuxtjsid, https://t.me/gatsbyjsid
 
-<h3>UI/UX:</h3>
+<h4>UI/UX:</h4>
 https://t.me/uixdindo, https://t.me/UiuxIndo
 
-<h3>PWA:</h3>
+<h4>PWA:</h4>
 https://t.me/pwaID, https://t.me/wwwid_pwa
 
-<h3>Miscellanous:</h3>
+<h4>Miscellanous:</h4>
 https://t.me/polymer_id
 
-<h3>Serverless:</h3>
+<h4>Serverless:</h4>
 https://t.me/firebaseid
 
 -- -- --
 
-<h3>Backend</h3>
+<h4>Backend</h4>
 https://t.me/zimbraID, 
 https://t.me/BackEndID
 
-<h3>Backend Framework:</h3>
+<h4>Backend Framework:</h4>
 https://t.me/flaskid, 
 https://t.me/DjangoID, 
 https://t.me/RailsID, 
 https://t.me/dart_web
 
-<h3>PHP:</h3>
+<h4>PHP:</h4>
 https://t.me/phpidcommunity, 
 https://t.me/PHPIDforStudent, 
 https://t.me/codeigniterindonesia, 
 https://t.me/laravelindonesia, 
 https://t.me/symfonyid
 
-<h3>Server:</h3>
+<h4>Server:</h4>
 https://t.me/id_nginx
 
-<h3>Service:</h3>
+<h4>Service:</h4>
 https://t.me/microserviceid,
 https://t.me/micronaut_id
 
 -- -- --
 
-<h3>DevOps:</h3>
+<h4>DevOps:</h4>
 https://t.me/sqa_id, 
 https://t.me/IDDevOps, 
 https://t.me/sdnnfvug, 
@@ -269,14 +267,14 @@ https://t.me/ServerlessTech,
 https://t.me/ansibleid, 
 https://t.me/github_action_international (english)
 
-<h3>Cloud:</h3>
+<h4>Cloud:</h4>
 https://t.me/AWSUserGroupID, 
 https://t.me/dockeridn (ex  https://t.me/dockerid), 
 invite (ex https://t.me/openstackid)
 
 -- -- --
 
-<h3>Javascript:</h3>
+<h4>Javascript:</h4>
 https://t.me/nodejsid, 
 https://t.me/nodejsindo, 
 https://t.me/deno_id, 
@@ -284,7 +282,7 @@ https://t.me/js_id,
 https://t.me/javascript_rocks, 
 https://t.me/electronatom
 
-<h3>Javascript Frameworks/Libraries:</h3>
+<h4>Javascript Frameworks/Libraries:</h4>
 https://t.me/svelte_id, 
 https://t.me/belajarjquery, 
 https://t.me/emberjsID, 
@@ -300,14 +298,15 @@ https://t.me/react_id,
 https://t.me/reactnoob, 
 
 
-<h3>Javascript Like:</h3>
+
+<h4>Javascript Like:</h4>
 https://t.me/TypescriptIndonesia, 
 https://t.me/nativescriptid, 
 https://t.me/nativescript_id, 
 https://t.me/reasonML_id
 -- -- --
 
-<h3>Mobile:</h3>
+<h4>Mobile:</h4>
 https://t.me/indonesiaionic, 
 https://t.me/nativescriptid, 
 https://t.me/flutterindonesia, 
@@ -317,12 +316,12 @@ https://t.me/freekelasphonegapcordova
 
 -- -- --
 
-<h3>Web Assembly:</h3>
+<h4>Web Assembly:</h4>
 https://t.me/WebAssemblyID, https://t.me/WASM_INDONESIA
 
 -- -- --
 
-<h3>Method</h3>
+<h4>Method</h4>
 https://t.me/agilecirclesid, 
 https://t.me/ScrumJakarta, 
 https://t.me/scrumid
@@ -334,17 +333,17 @@ Humor
 
 -- -- --
  
-<h3>IoT:</h3>
+<h4>IoT:</h4>
 https://t.me/IoTIndonesia, https://t.me/blockchainiotIDN, https://t.me/lombok_iot
 
-<h3>Board:</h3>
+<h4>Board:</h4>
 https://t.me/arduinoclub_id (paguyuban group arduino yang baru dengan admin), https://t.me/arduinoelektro (tampol, gif), https://t.me/raspberrypi_id
 
-<h3>Miscellanous: </h3>
+<h4>Miscellanous: </h4>
 https://t.me/edukasielektronika, 
 https://t.me/maker4nation
 
-<h3>Robotika:</h3>
+<h4>Robotika:</h4>
 https://t.me/kelasrobotgrup, 
 https://t.me/labrobotika, 
 https://t.me/indonesiadrone, 
@@ -352,7 +351,7 @@ https://t.me/dronecoderid,
 https://t.me/dronehacking, 
 https://t.me/tigaDIndonesia
 
-<h3>Network:</h3>
+<h4>Network:</h4>
 https://t.me/opennetworkid, 
 https://t.me/belajarnetworking, 
 https://t.me/SIRENGNetwork, 
@@ -360,7 +359,7 @@ https://t.me/teknisijaringanind,
 https://t.me/rtrw_id, 
 https://t.me/pegelwrt
 
-<h3>Teknik:</h3>
+<h4>Teknik:</h4>
 https://t.me/plc_indonesia, 
 https://t.me/komunitasautocadindonesia, 
 https://t.me/DrafterIndonesia, 
