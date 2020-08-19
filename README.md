@@ -79,10 +79,6 @@ https://t.me/Kriptografi,
 https://t.me/ForensicaID, 
 https://t.me/ScrapeID, 
 https://t.me/bashidorg, 
-<!--
-atau 
-Supaya tidak terjebak group yang dipenuhi pertanyaan mendasar dari n00b.
-Invalid Link: SolusID.-->
 </p>
 
 <!--
