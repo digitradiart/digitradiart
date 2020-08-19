@@ -81,13 +81,13 @@ https://t.me/ScrapeID,
 https://t.me/bashidorg, 
 </p>
 
-<!--
 <h4>Kustomisasi:</h4>
 https://t.me/dotfiles_id, 
 https://t.me/dotfiles_id_channel
+
 <h4>Text Editor:</h4>
 https://t.me/VimID, 
-https://t.me/emacsID-->
+https://t.me/emacsID
 
 <h4>Aplikasi:</h4>
 <p>
