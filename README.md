@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=digitradiart&theme=tokyonight&show_icons=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitradiart&color=blueviolet&style=flat-square&label=Visitor+counter" alt="digitradiart" /> </p>
-<a href="https://github.com/digitradiart/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=digitradiart&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/digitradiart/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=digitradiart&repo=convoychat" />
-</a>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=digitradiart&repo=github-readme-stats)](https://github.com/digitradiart/github-readme-stats)
 
 <h1>Rekomendasi Grup/Channel Telegram</h1>
 <em>[Ps: Bismillah. Si digitradiart cuma tukang salin tempel ya gais, ada dikit2 yang dia edit sih. Semoga bermanfaat.]</em>
