@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun(ny) fact: ...
 -->
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=digitradiart&show_icons=true&theme=nightowl)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=digitradiart&show_icons=true&theme=nightowl&hide_)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitradiart&color=ff69b4&style=flat-square&label=Visitor+counter" alt="digitradiart" /> </p>
 
 <h1>Grup/Channel Telegram</h1>
