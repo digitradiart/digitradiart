@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun(ny) fact: ...
 -->
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=digitradiart&theme=radical&show_icons=true)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=digitradiart&color=ff69b4&style=flat-square&label=Visitor+counter" alt="digitradiart" /> </p>
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=digitradiart&theme=tokyonight&show_icons=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=digitradiart&color=blue&style=flat-square&label=Visitor+counter" alt="digitradiart" /> </p>
 
 <h1>Rekomendasi Grup/Channel Telegram</h1>
 <em>[Ps: Bismillah. Si digitradiart cuma tukang salin tempel ya gais, ada dikit2 yang dia edit sih. Semoga bermanfaat.]</em>
@@ -26,7 +26,7 @@ Apa kabaaar ...
 Setelah sekian lama, saya perbarui juga daftar ini 🙈. Dan masih secara berkala kusebar.
 Pemula linux dapat memulai dengan mengikuti group (paguyuban):.
 Bagi pengguna GNU/Linux, kalau sudah lebih dari setahun pakai distro, bisa mulai kepo simak distro lain:</p>
-
+ff69b4
 -->
    
 <h3>Tentang Linux</h3>
