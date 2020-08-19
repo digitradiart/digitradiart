@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=digitradiart&show_icons=true&theme=nightowl&hide_)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitradiart&color=ff69b4&style=flat-square&label=Visitor+counter" alt="digitradiart" /> </p>
 
-<h1>Grup/Channel Telegram</h1>
-<h2>Rekomendasi untuk Belajar</h2>
-
+<h1>Rekomendasi Grup/Channel Telegram</h1>
+<em>[Ps: Bismillah. Si digitradiart cuma tukang salin tempel ya gais, ada dikit2 yang dia edit sih. Semoga bermanfaat.]</em>
 <!--<p>Assalamu'alaykum warahmatullahi wabarakatuh.
 Dear kawan2,
 Apa kabaaar ...
@@ -378,4 +377,3 @@ https://t.me/TeknikLingkunganIndonesia,
 
 <!--Wassalamu'alaykum warahmatullahi wabarakatuh.-->
 -- -- --
-<i>[Ps: Si digitradiart cuma tukang salin tempel ya gais, ada dikit2 yang dia edit sih. Semoga bermanfaat.]</i>
