@@ -130,7 +130,6 @@ https://t.me/TeaInside,
 https://t.me/AssemblyID
 
 <h4>Script<h4>
-<p>
 https://t.me/bashidorg, 
 https://t.me/idpyplc, 
 https://t.me/pythonID,
@@ -139,7 +138,6 @@ https://t.me/rubyist_cupu,
 https://t.me/ruby_id, 
 https://t.me/perl_id, 
 https://t.me/lua_id
-</p>
         
 <h4>Functional</h4>
 https://t.me/elixir_id, 
