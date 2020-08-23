@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=digitradiart&theme=nightowl&show_icons=true&hide=stars,issues)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitradiart&color=blueviolet&style=flat-square&label=Visitor+counter" alt="digitradiart" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitradiart)](https://github.com/digitradiart/github-readme-stats)
 
 <h2>Rekomendasi Grup/Channel Telegram</h2>
 <em>[Ps: Bismillah. Si digitradiart cuma tukang salin tempel ya gais, ada dikit2 yang dia edit sih. Semoga bermanfaat.]</em>
