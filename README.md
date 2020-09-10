@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitradiart&layout=compact)](https://github.com/digitradiart/github-readme-stats)-->
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitradiart&layout=compact)](https://github.com/digitradiart/github-readme-stats" alt="digitradiart" /></p>
-[![Repos Badge](https://badges.pufler.dev/repos/digitradiart)](https://badges.pufler.dev)
+<!--[![Repos Badge](https://badges.pufler.dev/repos/digitradiart)](https://badges.pufler.dev)-->
 
 <h2>Rekomendasi Grup/Channel Telegram</h2>
 <em>[Ps: Bismillah. Si digitradiart cuma tukang salin tempel ya gais, ada dikit2 yang dia edit sih. Semoga bermanfaat.]</em>
