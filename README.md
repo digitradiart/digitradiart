@@ -1,9 +1,9 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitradiart&color=blueviolet&style=flat-square&label=Visitor+counter" alt="digitradiart" /> </p>
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=digitradiart&theme=nightowl&show_icons=true)
+
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitradiart&layout=compact)](https://github.com/digitradiart/github-readme-stats" alt="digitradiart" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitradiart&layout=compact&count_private=true&theme=nightowl) ![Dequarantine](https://github-readme-stats.vercel.app/api/pin/?username=digitradiart&repo=dequarantine&show_icons=true&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitradiart&layout=compact&theme=nightowl) ![Dequarantine](https://github-readme-stats.vercel.app/api/pin/?username=digitradiart&repo=dequarantine&show_icons=true&theme=nightowl)
 
 ![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=digitradiart&repo=digitradiart.github.io&show_icons=true&theme=nightowl)
 <!--![Project Matching](https://github-readme-stats.vercel.app/api/pin/?username=dsc-umass&repo=project-matching&show_icons=true&theme=blueviolet) -->
