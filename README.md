@@ -1,26 +1,14 @@
 ### Hi there 👋
-
-<!--
-**digitradiart/digitradiart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun(ny) fact: ...
--->
-
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=digitradiart&theme=nightowl&show_icons=true)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitradiart&color=blueviolet&style=flat-square&label=Visitor+counter" alt="digitradiart" /> </p>
-
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=digitradiart&theme=nightowl&show_icons=true)
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitradiart&layout=compact)](https://github.com/digitradiart/github-readme-stats" alt="digitradiart" /></p>
-<!--[![Repos Badge](https://badges.pufler.dev/repos/digitradiart)](https://badges.pufler.dev)-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitradiart&layout=compact&count_private=true&theme=blueviolet) ![Dequarantine](https://github-readme-stats.vercel.app/api/pin/?username=digitradiart&repo=dequarantine&show_icons=true&theme=blueviolet)
+
+![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=digitradiart&repo=digitradiart.github.io&show_icons=true&theme=blueviolet)
+<!--![Project Matching](https://github-readme-stats.vercel.app/api/pin/?username=dsc-umass&repo=project-matching&show_icons=true&theme=blueviolet) -->
+![Project Matching](https://github-readme-stats.vercel.app/api/pin/?username=digitradiart&repo=project-matching&show_icons=true&theme=blueviolet) 
+
 
 <h2>Rekomendasi Grup/Channel Telegram</h2>
 <em>[Ps: Bismillah. Si digitradiart cuma tukang salin tempel ya gais, ada dikit2 yang dia edit sih. Semoga bermanfaat.]</em>
@@ -56,18 +44,6 @@ https://t.me/ibislinux
 Group Baru:
 https://t.me/nixosid, https://t.me/linuxclearID, https://t.me/centos_id, https://t.me/XentaOS, https://t.me/oss_id
 </p>
-
-<!--
-<h4>Non Linux:</h4>
-https://t.me/freebsdid, 
-https://t.me/setanmerahID, 
-https://t.me/openbsdindonesia, 
-https://t.me/pegelbsd, -->
-
-<!--
-Hiburan
-📌 https://t.me/GNUWibu
-📌 https://t.me/LinuxID_OOT-->
 
 <h4>Selain distro coba juga environment-nya:</h4>
 https://t.me/gnomeid, 
@@ -325,12 +301,6 @@ https://t.me/agilecirclesid,
 https://t.me/ScrumJakarta, 
 https://t.me/scrumid
 
-<!--
-Humor
-🥁 https://t.me/komunitasbackenddev
--->
-
--- -- --
  
 <h4>IoT:</h4>
 https://t.me/IoTIndonesia, https://t.me/blockchainiotIDN, https://t.me/lombok_iot
@@ -367,5 +337,4 @@ https://t.me/digambarin_studio,
 https://t.me/klistrik, 
 https://t.me/TeknikLingkunganIndonesia, 
 
-<!--Wassalamu'alaykum warahmatullahi wabarakatuh.-->
 -- -- --
