@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun(ny) fact: ...
 -->
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=digitradiart&theme=nightowl&show_icons=true&hide=stars,issues)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=digitradiart&theme=nightowl&show_icons=true)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitradiart&color=blueviolet&style=flat-square&label=Visitor+counter" alt="digitradiart" /> </p>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitradiart&layout=compact)](https://github.com/digitradiart/github-readme-stats)-->
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitradiart&layout=compact)](https://github.com/digitradiart/github-readme-stats" alt="digitradiart" /></p>
 <!--[![Repos Badge](https://badges.pufler.dev/repos/digitradiart)](https://badges.pufler.dev)-->
