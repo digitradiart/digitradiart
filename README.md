@@ -3,11 +3,11 @@
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=digitradiart&theme=nightowl&show_icons=true)
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitradiart&layout=compact)](https://github.com/digitradiart/github-readme-stats" alt="digitradiart" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitradiart&layout=compact&count_private=true&theme=blueviolet) ![Dequarantine](https://github-readme-stats.vercel.app/api/pin/?username=digitradiart&repo=dequarantine&show_icons=true&theme=blueviolet)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitradiart&layout=compact&count_private=true&theme=nightowl) ![Dequarantine](https://github-readme-stats.vercel.app/api/pin/?username=digitradiart&repo=dequarantine&show_icons=true&theme=nightowl)
 
-![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=digitradiart&repo=digitradiart.github.io&show_icons=true&theme=blueviolet)
+![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=digitradiart&repo=digitradiart.github.io&show_icons=true&theme=nightowl)
 <!--![Project Matching](https://github-readme-stats.vercel.app/api/pin/?username=dsc-umass&repo=project-matching&show_icons=true&theme=blueviolet) -->
-![Project Matching](https://github-readme-stats.vercel.app/api/pin/?username=digitradiart&repo=project-matching&show_icons=true&theme=blueviolet) 
+![Project Matching](https://github-readme-stats.vercel.app/api/pin/?username=digitradiart&repo=project-matching&show_icons=true&theme=nightowl) 
 
 
 <h2>Rekomendasi Grup/Channel Telegram</h2>
