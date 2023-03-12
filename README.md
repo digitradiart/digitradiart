@@ -9,7 +9,7 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitradiart&layout=compact&theme=nightowl" alt="digitradiart"/> </p>
 
-<p align="left"><img src="https://gitwar.herokuapp.com/badge?username=digitradiart&label=Gitwar%20Profile%20Score&style=for-the-badge&color=blueviolet" alt="digitradiart"/> </p>
+<!-- <p align="left"><img src="https://gitwar.herokuapp.com/badge?username=digitradiart&label=Gitwar%20Profile%20Score&style=for-the-badge&color=blueviolet" alt="digitradiart"/> </p>
+ -->
 
-
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Still%20learning%20about:&align=center&titleAlign=center&lineCount=1&theme=night_owl&line1=html5,html5,d10034;css3,css3,1166d4;javascript,javascript,f6d013;bootstrap,bootstrap,c71fc1;php,php,1d38bf;MySQL,MySQL,372be9;react,react,57cdff;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Still%20learning%20about:&align=center&titleAlign=center&lineCount=1&theme=night_owl&line1=html5,html5,d10034;css3,css3,1166d4;javascript,javascript,f6d013;bootstrap,bootstrap,c71fc1;php,php,1d38bf;MySQL,MySQL,372be9;react,react,57cdff;)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Still%20learning%20about:&align=center&titleAlign=center&lineCount=2&theme=night_owl&line1=html5,html5,d10034;css3,css3,1166d4;javascript,javascript,f6d013;&line2=bootstrap,bootstrap,c52bbf;react,react,1acacc;node.js,node.js,1ead0b;php,php,7a68bb;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Still%20learning%20about:&align=center&titleAlign=center&lineCount=2&theme=night_owl&line1=html5,html5,d10034;css3,css3,1166d4;javascript,javascript,f6d013;&line2=bootstrap,bootstrap,c52bbf;react,react,1acacc;node.js,node.js,1ead0b;php,php,7a68bb;)
